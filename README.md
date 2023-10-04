@@ -1,5 +1,5 @@
 <h5 align="center">Selamlar Canlarım Bugunkı Konumuz <br>Oldukça basit bir şey whatsapp dan arkadaşlarınıza sms yağmuru doldurmak istermisiniz işte bu projeyi size sunuyorum daha fazla bu tarz içerikler için discord.gg/sianetwork adresinden bana ulaşabilirsiniz <3</h5>
-
+<h5 align="center"Kullanımı Basit Sadece Mesajı Ne kadar oldugunu mesajın ne oldugunu ve bıtısı belırtmenız gerekıyo daha sonra gerı sayım basladıgında mesajdakı yazma yerıne mauseyı getırıp bırkere tıklamanız yeterlı <3</h5>
 ###
 
 <div align="center">
